@@ -7,6 +7,6 @@ This should have generated a *jar* file in the **target** folder.
 
 The run 
 
-´´´bash
+```bash
 $ java -jar target/tp...jar
-´´´
+```
